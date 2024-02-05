@@ -1,0 +1,14 @@
+a{
+    padding:150px;
+    text-decoration: none;
+    color:blue;
+}
+nav{
+    background-color: gold;
+}
+button{
+    margin-left:700px;
+}
+.div{
+    display:flex;
+}
